@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kitsui - AWS Serverless CMS - Portfolio</title>
+<script src="Javascript/jquery-3.1.0.js"></script> 
+<link rel="stylesheet" href="Css/bootstrap-3.3.6-dist/css/bootstrap.css">
+<link rel="stylesheet" href="Css/bootstrap-3.3.6-dist/css/bootstrap.min.css">
+</head>
+
+<body>
+	<div class = "container">
+		<div id = "includedContent"></div>
+	    
+	    <script> 
+		document.getElementById("includedContent").innerHTML=
+		'<object type="text/html" data="lol.html" ></object>';
+
+		 $(document).ready(function() 
+		 {
+		    $('ul.menu-items li').click(function(e) 
+		    { 
+		     alert($(this).find("span.t").text());
+		    });
+		 });
+	    </script> 
+
+		<ul class="menu-items">
+			<li><a href="#">Project Artefacts</a></li>
+			<li><a href="#">Project Planning and Control</a></li>
+			<li><a href="#">Communication Documents</a></li>
+			<li><a href="#">Development Artefacts</a></li>
+			<li><a href="#">Quality Assurance</a></li>
+			<li><a href="#">AUT Documents</a></li>
+			<li><a href="#">Team Work Logs</a></li>
+	</ul>
+	</div>
+</body>
+
+
+
+</html> 
