@@ -2,17 +2,18 @@
 <html>
 <head>
 <title>Kitsui - AWS Serverless CMS - Portfolio</title>
-<script src="Javascript/jquery-3.1.0.js"></script> 
-<link rel="stylesheet" href="Css/bootstrap-3.3.6-dist/css/bootstrap.css">
-<link rel="stylesheet" href="Css/bootstrap-3.3.6-dist/css/bootstrap.min.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
 
 <body>
 	<div class = "container">
-		<div id = "includedContent"></div>
-	    
+			    
 	    <script> 
-		document.getElementById("includedContent").innerHTML=
+		document.getElementById(".tab-content menu4 includedContent").innerHTML=
 		'<object type="text/html" data="lol.html" ></object>';
 
 		 $(document).ready(function() 
@@ -24,16 +25,48 @@
 		 });
 	    </script> 
 
-		<ul class="menu-items">
-			<li><a href="#">Project Artefacts</a></li>
-			<li><a href="#">Project Planning and Control</a></li>
-			<li><a href="#">Communication Documents</a></li>
-			<li><a href="#">Development Artefacts</a></li>
-			<li><a href="#">Quality Assurance</a></li>
-			<li><a href="#">AUT Documents</a></li>
-			<li><a href="#">Team Work Logs</a></li>
-	</ul>
+	    <h2>Dynamic Tabs</h2>
+		  <ul class="nav nav-tabs">
+		    <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
+		    <li><a data-toggle="tab" href="#menu1">Project Artefacts</a></li>
+		    <li><a data-toggle="tab" href="#menu2">Planning and Control</a></li>
+		    <li><a data-toggle="tab" href="#menu3">Communication</a></li>
+		    <li><a data-toggle="tab" href="#menu4">Development Artefacts</a></li>
+		    <li><a data-toggle="tab" href="#menu5">Quality Assurance</a></li>
+		    <li><a data-toggle="tab" href="#menu6">Team Logs</a></li>
+		    <li><a data-toggle="tab" href="#menu6">AUT Documents</a></li>
+
+		  </ul>
+
+		  <div class="tab-content">
+		    <div id="home" class="tab-pane fade in active">
+		      <h3>HOME</h3>
+		      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		    </div>
+		    <div id="menu1" class="tab-pane fade">
+		      <h3>Menu 1</h3>
+		      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+		    </div>
+		    <div id="menu2" class="tab-pane fade">
+		      <h3>Menu 2</h3>
+		      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+		    </div>
+		    <div id="menu3" class="tab-pane fade">
+		      <h3>Menu 3</h3>
+		      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		    </div>
+
+		   <div id="menu4" class="tab-pane fade">
+		      <h3>Content from lol</h3>
+		      <div id = "includedContent"></div>
+		    </div>
+
+
+		    
+		  </div>
+
 	</div>
+	
 </body>
 
 
