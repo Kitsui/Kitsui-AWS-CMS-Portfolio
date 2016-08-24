@@ -22,6 +22,8 @@
 		 });
 	    </script> 
 
+
+
 	   	<img class="img-responsive" src="Images/amazon-web-services-logo-large.png" alt="Chania" width="400" height="300">
 
 	    <h2>Serverless CMS</h2>
@@ -43,6 +45,25 @@
 		</script>
 		<div id = "includedContent"></div>
 		    <div id="home" class="tab-pane fade in active">
+
+    		    <!-- IFrame viewer for PDF Content -->
+    		    <script language="javascript" type="text/javascript">
+				  $(document).ready(function() {
+				    $('#trigger').click(function(){
+				      //$("#dialog").dialog();
+				      document.getElementById('dialog').style.display = 'block';
+				    }); 
+				  });                  
+				</script>
+
+		    	<a href="#" id="trigger">Communication Doc</a>
+				<div id="dialog" style="display:none">
+				    <div style="display:block;absoulute:relative;top:0px;height=1000;z-index:999;">
+				    <iframe class="pdf-viewer" height="750vh" width="100%" frameborder="0" src="Documents/Communication_information.pdf"></iframe>
+				    </div>
+				</div>
+				<!-- End of IFrame viewer for PDF Content -->
+
 		    </div>
 		    <div id="menu1" class="tab-pane fade">
 		    </div>
