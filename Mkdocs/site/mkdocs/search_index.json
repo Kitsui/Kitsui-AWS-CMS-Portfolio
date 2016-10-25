@@ -2,23 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "WELCOME TO AWS SERVERLESS CMS\n\n\nProduced by Team KITSUI\n\n\nThis portfolio was produced for the Amazon Web Services Serverless Content\nManagement System produced by Team Kitsui 2016. All documents created and\nused which brought value to the team or client through out the project will\nbe presented here. Noted that some documentation at the time was useful and\nserved its purpose, however was depricated and not maintained. The link to the\ndocumentation will be presented link bellow.  \n\n\n// Example  \n\n\n\n\nWhere as standard documentation which is maintained will be presented in this\nmanner.  \n\n\n// Example  \n\n\n\n\nHappy Marking :)", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#welcome-to-aws-serverless-cms", 
+            "text": "", 
+            "title": "WELCOME TO AWS SERVERLESS CMS"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#produced-by-team-kitsui", 
+            "text": "This portfolio was produced for the Amazon Web Services Serverless Content\nManagement System produced by Team Kitsui 2016. All documents created and\nused which brought value to the team or client through out the project will\nbe presented here. Noted that some documentation at the time was useful and\nserved its purpose, however was depricated and not maintained. The link to the\ndocumentation will be presented link bellow.    // Example    Where as standard documentation which is maintained will be presented in this\nmanner.    // Example", 
+            "title": "Produced by Team KITSUI"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#happy-marking", 
+            "text": "", 
+            "title": "Happy Marking :)"
         }
     ]
 }

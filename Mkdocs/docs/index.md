@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+#WELCOME TO AWS SERVERLESS CMS
+## Produced by Team KITSUI
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+This portfolio was produced for the Amazon Web Services Serverless Content
+Management System produced by Team Kitsui 2016. All documents created and
+used which brought value to the team or client through out the project will
+be presented here. Noted that some documentation at the time was useful and
+served its purpose, however was depricated and not maintained. The link to the
+documentation will be presented link bellow.  
 
-## Commands
+```
+// Example  
+```  
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+Where as standard documentation which is maintained will be presented in this
+manner.  
 
-## Project layout
+```
+// Example  
+```  
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+####Happy Marking :)
