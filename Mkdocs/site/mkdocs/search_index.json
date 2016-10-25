@@ -19,6 +19,21 @@
             "location": "/#happy-marking", 
             "text": "", 
             "title": "Happy Marking :)"
+        }, 
+        {
+            "location": "/planning and control/", 
+            "text": "Project Planning and Control\n\n\nThe following documents have been curated over the period the Research and\nDevelopment of the Content Management System. These documents show the Control\nmeasures taken to assess the risks and issues that have arisen and were thought\nto occur.\n\n\nSprint 0 Planning Documents\n\n\nWeekly Plan\n\n\nProject Plan Weeks 1 - 4", 
+            "title": "Planning and control"
+        }, 
+        {
+            "location": "/planning and control/#project-planning-and-control", 
+            "text": "The following documents have been curated over the period the Research and\nDevelopment of the Content Management System. These documents show the Control\nmeasures taken to assess the risks and issues that have arisen and were thought\nto occur.", 
+            "title": "Project Planning and Control"
+        }, 
+        {
+            "location": "/planning and control/#sprint-0-planning-documents", 
+            "text": "Weekly Plan  Project Plan Weeks 1 - 4", 
+            "title": "Sprint 0 Planning Documents"
         }
     ]
 }
