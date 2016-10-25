@@ -1,5 +1,2 @@
 site_name: AWS Serverless CMS Portfolio
 theme: yeti
-markdown_extensions:
-    - toc:
-        permalink: True

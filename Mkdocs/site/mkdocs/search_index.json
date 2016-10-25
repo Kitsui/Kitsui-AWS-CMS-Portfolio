@@ -22,7 +22,7 @@
         }, 
         {
             "location": "/planning and control/", 
-            "text": "Project Planning and Control\n\n\nThe following documents have been curated over the period the Research and\nDevelopment of the Content Management System. These documents show the Control\nmeasures taken to assess the risks and issues that have arisen and were thought\nto occur.\n\n\nSprint 0 Planning Documents\n\n\nWeekly Plan\n\n\nProject Plan Weeks 1 - 4", 
+            "text": "Project Planning and Control\n\n\nThe following documents have been curated over the period the Research and\nDevelopment of the Content Management System. These documents show the Control\nmeasures taken to assess the risks and issues that have arisen and were thought\nto occur.\n\n\nProposal Document\n\n\nUp to date Proposal\n  \n\n\nProject Schedules\n\n\nOverview Project Schedule 2.0\n\n\nOverview Project Schedule 2.1\n\n\nOverview Project Schedule 2.2\n\n\nOverview Project Schedule 2.3\n  \n\n\nWeekly Plan\n\n\nProject Plan Weeks 1 - 4\n  \n\n\nProject Control\n\n\nScope Change Document\n\n\nProject Decision Rationale Document\n\n\nProduct backlog\n  \n\n\nIssue Register\n\n\nTeam Contract\n\n\nTeam Skill Matrix\n  \n\n\nSprint Control\n\n\nSprint 1 Report\n  \n\n\nSprint 1 Retrospective\n\n\nSprint 2 Retrospective\n\n\nSprint 3 Retrospective\n\n\nSprint 4 Retrospective\n\n\nSprint 5 Retrospective\n\n\nSprint 6 Retrospective\n\n\nSprint 7 Retrospective\n\n\nSprint 8 Retrospective\n\n\nSprint 9 Retrospective\n\n\nSprint 10 Retrospective\n\n\nSprint 11 Retrospective\n\n\nSprint 12 Retrospective\n\n\nSprint 13 Retrospective\n  \n\n\nStatus Documents\n\n\nMid semester Status Report", 
             "title": "Planning and control"
         }, 
         {
@@ -31,9 +31,29 @@
             "title": "Project Planning and Control"
         }, 
         {
-            "location": "/planning and control/#sprint-0-planning-documents", 
-            "text": "Weekly Plan  Project Plan Weeks 1 - 4", 
-            "title": "Sprint 0 Planning Documents"
+            "location": "/planning and control/#proposal-document", 
+            "text": "Up to date Proposal", 
+            "title": "Proposal Document"
+        }, 
+        {
+            "location": "/planning and control/#project-schedules", 
+            "text": "Overview Project Schedule 2.0  Overview Project Schedule 2.1  Overview Project Schedule 2.2  Overview Project Schedule 2.3     Weekly Plan  Project Plan Weeks 1 - 4", 
+            "title": "Project Schedules"
+        }, 
+        {
+            "location": "/planning and control/#project-control", 
+            "text": "Scope Change Document  Project Decision Rationale Document  Product backlog     Issue Register  Team Contract  Team Skill Matrix", 
+            "title": "Project Control"
+        }, 
+        {
+            "location": "/planning and control/#sprint-control", 
+            "text": "Sprint 1 Report     Sprint 1 Retrospective  Sprint 2 Retrospective  Sprint 3 Retrospective  Sprint 4 Retrospective  Sprint 5 Retrospective  Sprint 6 Retrospective  Sprint 7 Retrospective  Sprint 8 Retrospective  Sprint 9 Retrospective  Sprint 10 Retrospective  Sprint 11 Retrospective  Sprint 12 Retrospective  Sprint 13 Retrospective", 
+            "title": "Sprint Control"
+        }, 
+        {
+            "location": "/planning and control/#status-documents", 
+            "text": "Mid semester Status Report", 
+            "title": "Status Documents"
         }
     ]
 }
