@@ -5,14 +5,15 @@ Development of the Content Management System. These artifacts show the communica
 and collaboration with the client and team.
 
 ##Team Meeting Minutes
-[Team Meeting](#)  
-[Team Meeting](#)  
-[Team Meeting](#)  
-[Team Meeting](#)  
-[Team Meeting](#)
-[Team Meeting](#)  
-[Team Meeting](#)  
-[Team Meeting](#)  
+[Daily Stand ups](Documents/Communication/Team meeting minutes PDF/Daily Standups.pdf)  
+[Team Meeting - 7/3](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ 07_03_2016.pdf)  
+[Team Meeting - 8/3](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ 08_03_2016.pdf)  
+[Team Meeting - 15/6](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ 15_06_2016.pdf)  
+[Team Meeting - 16/5](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ 16_05_2016.pdf)  
+[Team Meeting - 17/5 a](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ 17_05_2016.pdf)  
+[Team Meeting - 17/5 b](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ part b 17_05_2016_0.pdf)  
+[Team Meeting - 26/5](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ 26_05_2016.pdf)  
+[Team Meeting - 18/7](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ 18_07_2016.pdf)  
 
 [Images](#)  
 [Images](#)  
