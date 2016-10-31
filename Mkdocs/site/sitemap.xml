@@ -11,6 +11,14 @@
 
     
     <url>
+     <loc>None/Appendicies/</loc>
+     <lastmod>2016-10-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>None/Communication and Colaboration/</loc>
      <lastmod>2016-10-31</lastmod>
      <changefreq>daily</changefreq>
@@ -20,6 +28,14 @@
     
     <url>
      <loc>None/Design and Development/</loc>
+     <lastmod>2016-10-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Quality Assurance/</loc>
      <lastmod>2016-10-31</lastmod>
      <changefreq>daily</changefreq>
     </url>

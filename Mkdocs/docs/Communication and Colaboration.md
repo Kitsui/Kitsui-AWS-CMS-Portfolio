@@ -15,7 +15,7 @@ and collaboration with the client and team.
 [Team Meeting - 26/5](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ 26_05_2016.pdf)  
 [Team Meeting - 18/7](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ 18_07_2016.pdf)  
 
-[Images](#)  
+[Images](Documents/Communication/Team meeting minutes PDF/Images)  
 [Images](#)  
 [Images](#)  
 [Images](#)  

@@ -21,8 +21,13 @@
             "title": "Happy Marking :)"
         }, 
         {
+            "location": "/Appendicies/", 
+            "text": "", 
+            "title": "Appendicies"
+        }, 
+        {
             "location": "/Communication and Colaboration/", 
-            "text": "Communication and Collaboration\n\n\nThe following artifacts have been curated over the period the Research and\nDevelopment of the Content Management System. These artifacts show the communication\nand collaboration with the client and team.\n\n\nTeam Meeting Minutes\n\n\nClient Meeting Minutes\n\n\nSupervisor Meeting Minutes\n\n\nClient Email records", 
+            "text": "Communication and Collaboration\n\n\nThe following artifacts have been curated over the period the Research and\nDevelopment of the Content Management System. These artifacts show the communication\nand collaboration with the client and team.\n\n\nTeam Meeting Minutes\n\n\nDaily Stand ups\n\n\nTeam Meeting - 7/3\n\n\nTeam Meeting - 8/3\n\n\nTeam Meeting - 15/6\n\n\nTeam Meeting - 16/5\n\n\nTeam Meeting - 17/5 a\n\n\nTeam Meeting - 17/5 b\n\n\nTeam Meeting - 26/5\n\n\nTeam Meeting - 18/7\n  \n\n\nImages\n\n\nImages\n\n\nImages\n\n\nImages\n\n\nImages\n  \n\n\nClient Meeting Minutes\n\n\nClient Meeting\n\n\nClient Meeting\n\n\nClient Meeting\n\n\nClient Meeting\n\n\nClient Meeting\n\n\nClient Meeting\n\n\nClient Meeting\n\n\nClient Meeting\n\n\nImages\n\n\nImages\n\n\nImages\n\n\nImages\n  \n\n\nSupervisor Meeting Minutes\n\n\nSupervisor Meeting\n\n\nSupervisor Meeting\n\n\nSupervisor Meeting\n\n\nSupervisor Meeting\n\n\nSupervisor Meeting\n\n\nSupervisor Meeting\n\n\nSupervisor Meeting\n\n\nSupervisor Meeting\n\n\nImages\n\n\nImages\n\n\nImages\n  \n\n\nClient Email records\n\n\nEmail Records", 
             "title": "Communication and Colaboration"
         }, 
         {
@@ -32,27 +37,27 @@
         }, 
         {
             "location": "/Communication and Colaboration/#team-meeting-minutes", 
-            "text": "", 
+            "text": "Daily Stand ups  Team Meeting - 7/3  Team Meeting - 8/3  Team Meeting - 15/6  Team Meeting - 16/5  Team Meeting - 17/5 a  Team Meeting - 17/5 b  Team Meeting - 26/5  Team Meeting - 18/7     Images  Images  Images  Images  Images", 
             "title": "Team Meeting Minutes"
         }, 
         {
             "location": "/Communication and Colaboration/#client-meeting-minutes", 
-            "text": "", 
+            "text": "Client Meeting  Client Meeting  Client Meeting  Client Meeting  Client Meeting  Client Meeting  Client Meeting  Client Meeting  Images  Images  Images  Images", 
             "title": "Client Meeting Minutes"
         }, 
         {
             "location": "/Communication and Colaboration/#supervisor-meeting-minutes", 
-            "text": "", 
+            "text": "Supervisor Meeting  Supervisor Meeting  Supervisor Meeting  Supervisor Meeting  Supervisor Meeting  Supervisor Meeting  Supervisor Meeting  Supervisor Meeting  Images  Images  Images", 
             "title": "Supervisor Meeting Minutes"
         }, 
         {
             "location": "/Communication and Colaboration/#client-email-records", 
-            "text": "", 
+            "text": "Email Records", 
             "title": "Client Email records"
         }, 
         {
             "location": "/Design and Development/", 
-            "text": "Design and Development\n\n\nOnline Repository\n\n\nLink to Repository\n\n\nJira Project management\n\n\nArchitecture Design Diagrams\n\n\nProject Poster", 
+            "text": "Design and Development\n\n\nOnline Repository\n\n\nLink to Repository\n\n\nLink to User Documentation\n\n\nLink to Developer Documentation\n\n\nJira Project management\n\n\nArchitecture Design Diagrams\n\n\nProject Poster", 
             "title": "Design and Development"
         }, 
         {
@@ -62,7 +67,7 @@
         }, 
         {
             "location": "/Design and Development/#online-repository", 
-            "text": "Link to Repository", 
+            "text": "Link to Repository  Link to User Documentation  Link to Developer Documentation", 
             "title": "Online Repository"
         }, 
         {
@@ -79,6 +84,11 @@
             "location": "/Design and Development/#project-poster", 
             "text": "", 
             "title": "Project Poster"
+        }, 
+        {
+            "location": "/Quality Assurance/", 
+            "text": "", 
+            "title": "Quality Assurance"
         }, 
         {
             "location": "/planning and control/", 
