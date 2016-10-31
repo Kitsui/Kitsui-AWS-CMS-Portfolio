@@ -44,4 +44,4 @@ and collaboration with the client and team.
 [Supervisor Meeting 26/9](Documents/Communication/Supervisor meeting minutes PDF/Meeting with supervisor - Minutes _ 26_09_16.pdf)  
 
 ##Client Email records
-[Email Records](#)
+[Email Records](Documents/Communication/Client meeting minutes PDF/Client Email Records.pdf)
