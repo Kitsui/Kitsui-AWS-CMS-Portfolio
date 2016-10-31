@@ -1,7 +1,7 @@
 #Project Planning and Control
 
-The following documents have been curated over the period the Research and
-Development of the Content Management System. These documents show the Control
+The following artifacts have been curated over the period the Research and
+Development of the Content Management System. These artifacts show the Control
 measures taken to assess the risks and issues that have arisen and were thought
 to occur.
 
