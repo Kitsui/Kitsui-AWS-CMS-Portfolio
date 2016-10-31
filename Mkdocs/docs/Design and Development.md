@@ -1,7 +1,7 @@
 #Design and Development
 
 ##Online Repository
-[Link to Repository](https://github.com/Kitsui/AWS-CMS-LAMBDA)
+[Link to Repository](https://github.com/Kitsui/AWS-CMS-LAMBDA)  
 [Link to User Documentation](https://kitsui.github.io/)  
 [Link to Developer Documentation](https://github.com/Kitsui/AWS-CMS-LAMBDA/wiki)  
 
