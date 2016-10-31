@@ -1,2 +1,3 @@
 site_name: AWS Serverless CMS Portfolio
 theme: yeti
+use_directory_urls: false

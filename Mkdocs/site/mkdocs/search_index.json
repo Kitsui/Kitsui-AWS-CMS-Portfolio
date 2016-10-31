@@ -1,167 +1,167 @@
 {
     "docs": [
         {
-            "location": "/", 
+            "location": "/index.html", 
             "text": "WELCOME TO AWS SERVERLESS CMS\n\n\nProduced by Team KITSUI\n\n\nThis portfolio was produced for the Amazon Web Services Serverless Content\nManagement System produced by Team Kitsui 2016. All documents created and\nused which brought value to the team or client through out the project will\nbe presented here. Noted that some documentation at the time was useful and\nserved its purpose, however was depricated and not maintained. The link to the\ndocumentation will be presented link bellow.  \n\n\n// Example  \n\n\n\n\nWhere as standard documentation which is maintained will be presented in this\nmanner.  \n\n\n// Example  \n\n\n\n\nHappy Marking :)", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-aws-serverless-cms", 
+            "location": "/index.html#welcome-to-aws-serverless-cms", 
             "text": "", 
             "title": "WELCOME TO AWS SERVERLESS CMS"
         }, 
         {
-            "location": "/#produced-by-team-kitsui", 
+            "location": "/index.html#produced-by-team-kitsui", 
             "text": "This portfolio was produced for the Amazon Web Services Serverless Content\nManagement System produced by Team Kitsui 2016. All documents created and\nused which brought value to the team or client through out the project will\nbe presented here. Noted that some documentation at the time was useful and\nserved its purpose, however was depricated and not maintained. The link to the\ndocumentation will be presented link bellow.    // Example    Where as standard documentation which is maintained will be presented in this\nmanner.    // Example", 
             "title": "Produced by Team KITSUI"
         }, 
         {
-            "location": "/#happy-marking", 
+            "location": "/index.html#happy-marking", 
             "text": "", 
             "title": "Happy Marking :)"
         }, 
         {
-            "location": "/Appendicies/", 
+            "location": "/Appendicies/index.html", 
             "text": "Appendices\n\n\nFeedback Documents\n\n\nProposal Feedback\n\n\nMid Semester Review Feedback", 
             "title": "Appendicies"
         }, 
         {
-            "location": "/Appendicies/#appendices", 
+            "location": "/Appendicies/index.html#appendices", 
             "text": "", 
             "title": "Appendices"
         }, 
         {
-            "location": "/Appendicies/#feedback-documents", 
+            "location": "/Appendicies/index.html#feedback-documents", 
             "text": "Proposal Feedback  Mid Semester Review Feedback", 
             "title": "Feedback Documents"
         }, 
         {
-            "location": "/Communication and Colaboration/", 
+            "location": "/Communication and Colaboration/index.html", 
             "text": "Communication and Collaboration\n\n\nThe following artifacts have been curated over the period the Research and\nDevelopment of the Content Management System. These artifacts show the communication\nand collaboration with the client and team.\n\n\nTeam Meeting Minutes\n\n\nDaily Stand ups\n\n\nTeam Meeting - 7/3\n\n\nTeam Meeting - 8/3\n\n\nTeam Meeting - 15/6\n\n\nTeam Meeting - 16/5\n\n\nTeam Meeting - 17/5 a\n\n\nTeam Meeting - 17/5 b\n\n\nTeam Meeting - 26/5\n\n\nTeam Meeting - 18/7\n  \n\n\nClient Meeting Minutes\n\n\nClient Meeting Sprint 0 9/3\n\n\nClient Meeting Sprint 0 14/3\n\n\nClient Meeting Sprint 0 1/4\n\n\nClient Meeting Sprint 0 2/5\n\n\nClient Meeting Sprint 1-2 Review\n\n\nClient Meeting Sprint 3 Review\n\n\nClient Meeting Sprint 4 Review\n\n\nClient Meeting Sprint 5-6 Review\n\n\nClient Meeting Sprint 7 Review\n\n\nClient Meeting Sprint 8 Review\n\n\nClient Meeting Sprint 9 Review\n\n\nClient Meeting Sprint 10 Review\n\n\nClient Meeting Sprint 11 Review\n  \n\n\nBulletproof Dev Team Slack\n\n\nSlack chat Screen shot 1\n\n\nSlack chat Screen shot 2\n\n\nSupervisor Meeting Minutes\n\n\nSupervisor Meeting 4/3\n\n\nSupervisor Meeting 10/3\n\n\nSupervisor Meeting 8/4\n\n\nSupervisor Meeting 6/5\n\n\nSupervisor Meeting 13/5\n\n\nSupervisor Meeting 20/5\n\n\nSupervisor Meeting 27/6\n\n\nSupervisor Meeting 18/7\n\n\nSupervisor Meeting 26/9\n  \n\n\nClient Email records\n\n\nEmail Records", 
             "title": "Communication and Colaboration"
         }, 
         {
-            "location": "/Communication and Colaboration/#communication-and-collaboration", 
+            "location": "/Communication and Colaboration/index.html#communication-and-collaboration", 
             "text": "The following artifacts have been curated over the period the Research and\nDevelopment of the Content Management System. These artifacts show the communication\nand collaboration with the client and team.", 
             "title": "Communication and Collaboration"
         }, 
         {
-            "location": "/Communication and Colaboration/#team-meeting-minutes", 
+            "location": "/Communication and Colaboration/index.html#team-meeting-minutes", 
             "text": "Daily Stand ups  Team Meeting - 7/3  Team Meeting - 8/3  Team Meeting - 15/6  Team Meeting - 16/5  Team Meeting - 17/5 a  Team Meeting - 17/5 b  Team Meeting - 26/5  Team Meeting - 18/7", 
             "title": "Team Meeting Minutes"
         }, 
         {
-            "location": "/Communication and Colaboration/#client-meeting-minutes", 
+            "location": "/Communication and Colaboration/index.html#client-meeting-minutes", 
             "text": "Client Meeting Sprint 0 9/3  Client Meeting Sprint 0 14/3  Client Meeting Sprint 0 1/4  Client Meeting Sprint 0 2/5  Client Meeting Sprint 1-2 Review  Client Meeting Sprint 3 Review  Client Meeting Sprint 4 Review  Client Meeting Sprint 5-6 Review  Client Meeting Sprint 7 Review  Client Meeting Sprint 8 Review  Client Meeting Sprint 9 Review  Client Meeting Sprint 10 Review  Client Meeting Sprint 11 Review", 
             "title": "Client Meeting Minutes"
         }, 
         {
-            "location": "/Communication and Colaboration/#bulletproof-dev-team-slack", 
+            "location": "/Communication and Colaboration/index.html#bulletproof-dev-team-slack", 
             "text": "Slack chat Screen shot 1  Slack chat Screen shot 2", 
             "title": "Bulletproof Dev Team Slack"
         }, 
         {
-            "location": "/Communication and Colaboration/#supervisor-meeting-minutes", 
+            "location": "/Communication and Colaboration/index.html#supervisor-meeting-minutes", 
             "text": "Supervisor Meeting 4/3  Supervisor Meeting 10/3  Supervisor Meeting 8/4  Supervisor Meeting 6/5  Supervisor Meeting 13/5  Supervisor Meeting 20/5  Supervisor Meeting 27/6  Supervisor Meeting 18/7  Supervisor Meeting 26/9", 
             "title": "Supervisor Meeting Minutes"
         }, 
         {
-            "location": "/Communication and Colaboration/#client-email-records", 
+            "location": "/Communication and Colaboration/index.html#client-email-records", 
             "text": "Email Records", 
             "title": "Client Email records"
         }, 
         {
-            "location": "/Design and Development/", 
+            "location": "/Design and Development/index.html", 
             "text": "Design and Development\n\n\nOnline Repository\n\n\nLink to Repository\n\n\nLink to User Documentation\n\n\nLink to Developer Documentation\n  \n\n\nJira Project management\n\n\nJira Documentation\n  \n\n\nArchitecture Design Diagrams\n\n\nSecurity Model Diagram\n\n\nAuthentication and Authorization Diagram\n\n\nCMS Login Flow Diagram\n\n\nCMS Visitor Access\n\n\nVisitor Site Technical Structure\n  \n\n\nProject Poster\n\n\nPoster PDF", 
             "title": "Design and Development"
         }, 
         {
-            "location": "/Design and Development/#design-and-development", 
+            "location": "/Design and Development/index.html#design-and-development", 
             "text": "", 
             "title": "Design and Development"
         }, 
         {
-            "location": "/Design and Development/#online-repository", 
+            "location": "/Design and Development/index.html#online-repository", 
             "text": "Link to Repository  Link to User Documentation  Link to Developer Documentation", 
             "title": "Online Repository"
         }, 
         {
-            "location": "/Design and Development/#jira-project-management", 
+            "location": "/Design and Development/index.html#jira-project-management", 
             "text": "Jira Documentation", 
             "title": "Jira Project management"
         }, 
         {
-            "location": "/Design and Development/#architecture-design-diagrams", 
+            "location": "/Design and Development/index.html#architecture-design-diagrams", 
             "text": "Security Model Diagram  Authentication and Authorization Diagram  CMS Login Flow Diagram  CMS Visitor Access  Visitor Site Technical Structure", 
             "title": "Architecture Design Diagrams"
         }, 
         {
-            "location": "/Design and Development/#project-poster", 
+            "location": "/Design and Development/index.html#project-poster", 
             "text": "Poster PDF", 
             "title": "Project Poster"
         }, 
         {
-            "location": "/Quality Assurance/", 
+            "location": "/Quality Assurance/index.html", 
             "text": "Quality Assurance\n\n\nRisk Management \n Quality assurance\n\n\nplease refer to the project proposal document \nHere\n  \n\n\nTeam Contract\n\n\nTeam Contract\n\n\nPython Coding Standards\n\n\nCoding Standards", 
             "title": "Quality Assurance"
         }, 
         {
-            "location": "/Quality Assurance/#quality-assurance", 
+            "location": "/Quality Assurance/index.html#quality-assurance", 
             "text": "", 
             "title": "Quality Assurance"
         }, 
         {
-            "location": "/Quality Assurance/#risk-management-quality-assurance", 
+            "location": "/Quality Assurance/index.html#risk-management-quality-assurance", 
             "text": "please refer to the project proposal document  Here", 
             "title": "Risk Management &amp; Quality assurance"
         }, 
         {
-            "location": "/Quality Assurance/#team-contract", 
+            "location": "/Quality Assurance/index.html#team-contract", 
             "text": "Team Contract", 
             "title": "Team Contract"
         }, 
         {
-            "location": "/Quality Assurance/#python-coding-standards", 
+            "location": "/Quality Assurance/index.html#python-coding-standards", 
             "text": "Coding Standards", 
             "title": "Python Coding Standards"
         }, 
         {
-            "location": "/planning and control/", 
+            "location": "/planning and control/index.html", 
             "text": "Project Planning and Control\n\n\nThe following artifacts have been curated over the period the Research and\nDevelopment of the Content Management System. These artifacts show the Control\nmeasures taken to assess the risks and issues that have arisen and were thought\nto occur.\n\n\nProposal Document\n\n\nUp to date Proposal\n  \n\n\nProject Schedules\n\n\nOverview Project Schedule 2.0\n\n\nOverview Project Schedule 2.1\n\n\nOverview Project Schedule 2.2\n\n\nOverview Project Schedule 2.3\n\n\nOverview Project Schedule 2.4\n  \n\n\nWeekly Plan\n\n\nProject Plan Weeks 1 - 4\n  \n\n\nProject Control\n\n\nScope Change Document\n\n\nProject Decision Rationale Document\n\n\nJira Product backlog and Burndowns\n\n\nIssue Register\n  \n\n\nTeam Contract\n\n\nTeam Skill Matrix\n  \n\n\nSprint Control\n\n\nSprint 1 Report\n  \n\n\nSprint 1 Retrospective\n\n\nSprint 2 Retrospective\n\n\nSprint 3 Retrospective\n\n\nSprint 4 Retrospective\n\n\nSprint 6 Retrospective\n\n\nSprint 7 Retrospective\n\n\nSprint 8 Retrospective\n\n\nSprint 9 Retrospective\n\n\nSprint 10 Retrospective\n\n\nSprint 11 Retrospective\n  \n\n\nSprint Sign off Documents\n\n\nSprint 1 Sign off\n\n\nSprint 2 Sign off\n\n\nSprint 3-4 Sign off\n\n\nSprint 5-6 Sign off\n\n\nSprint 7 Sign off\n\n\nSprint 8 Sign off\n\n\nSprint 9 Sign off\n\n\nSprint 10 Sign off\n\n\nSprint 11 Sign off\n  \n\n\nStatus Documents\n\n\nMid semester Status Report", 
             "title": "Planning and control"
         }, 
         {
-            "location": "/planning and control/#project-planning-and-control", 
+            "location": "/planning and control/index.html#project-planning-and-control", 
             "text": "The following artifacts have been curated over the period the Research and\nDevelopment of the Content Management System. These artifacts show the Control\nmeasures taken to assess the risks and issues that have arisen and were thought\nto occur.", 
             "title": "Project Planning and Control"
         }, 
         {
-            "location": "/planning and control/#proposal-document", 
+            "location": "/planning and control/index.html#proposal-document", 
             "text": "Up to date Proposal", 
             "title": "Proposal Document"
         }, 
         {
-            "location": "/planning and control/#project-schedules", 
+            "location": "/planning and control/index.html#project-schedules", 
             "text": "Overview Project Schedule 2.0  Overview Project Schedule 2.1  Overview Project Schedule 2.2  Overview Project Schedule 2.3  Overview Project Schedule 2.4     Weekly Plan  Project Plan Weeks 1 - 4", 
             "title": "Project Schedules"
         }, 
         {
-            "location": "/planning and control/#project-control", 
+            "location": "/planning and control/index.html#project-control", 
             "text": "Scope Change Document  Project Decision Rationale Document  Jira Product backlog and Burndowns  Issue Register     Team Contract  Team Skill Matrix", 
             "title": "Project Control"
         }, 
         {
-            "location": "/planning and control/#sprint-control", 
+            "location": "/planning and control/index.html#sprint-control", 
             "text": "Sprint 1 Report     Sprint 1 Retrospective  Sprint 2 Retrospective  Sprint 3 Retrospective  Sprint 4 Retrospective  Sprint 6 Retrospective  Sprint 7 Retrospective  Sprint 8 Retrospective  Sprint 9 Retrospective  Sprint 10 Retrospective  Sprint 11 Retrospective", 
             "title": "Sprint Control"
         }, 
         {
-            "location": "/planning and control/#sprint-sign-off-documents", 
+            "location": "/planning and control/index.html#sprint-sign-off-documents", 
             "text": "Sprint 1 Sign off  Sprint 2 Sign off  Sprint 3-4 Sign off  Sprint 5-6 Sign off  Sprint 7 Sign off  Sprint 8 Sign off  Sprint 9 Sign off  Sprint 10 Sign off  Sprint 11 Sign off", 
             "title": "Sprint Sign off Documents"
         }, 
         {
-            "location": "/planning and control/#status-documents", 
+            "location": "/planning and control/index.html#status-documents", 
             "text": "Mid semester Status Report", 
             "title": "Status Documents"
         }
