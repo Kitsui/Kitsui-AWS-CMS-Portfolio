@@ -31,6 +31,10 @@ and collaboration with the client and team.
 [Client Meeting Sprint 10 Review](Documents/Communication/Client meeting minutes PDF/Sprint Meetings/Sprint 10 Review Client Meeting - Minutes _ 20_09_2016.pdf)  
 [Client Meeting Sprint 11 Review](Documents/Communication/Client meeting minutes PDF/Sprint Meetings/Sprint 11 Review Client Meeting - Minutes _ 17_10_2016.pdf)  
 
+###Bulletproof Dev Team Slack
+[Slack chat Screen shot 1](Documents/Communication/Client meeting minutes PDF/slack1.png)  
+[Slack chat Screen shot 2](Documents/Communication/Client meeting minutes PDF/slack2.png)
+
 
 ##Supervisor Meeting Minutes
 [Supervisor Meeting 4/3](Documents/Communication/Supervisor meeting minutes PDF/Meeting with supervisor - Minutes _ 04_03_16.pdf)  
