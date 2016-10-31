@@ -43,6 +43,16 @@ to occur.
 [Sprint 10 Retrospective](Documents/Project Planning and Control/Retrospectives/Retrospective-10.PNG)  
 [Sprint 11 Retrospective](Documents/Project Planning and Control/Retrospectives/Retrospective-11.PNG)  
 
+####Sprint Sign off Documents
+[Sprint 1 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 1.pdf)  
+[Sprint 2 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 2.pdf)  
+[Sprint 3-4 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 3_4.pdf)  
+[Sprint 5-6 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 5_6.pdf)  
+[Sprint 7 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 7.pdf)  
+[Sprint 8 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 8.pdf)  
+[Sprint 9 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 9.pdf)  
+[Sprint 10 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 10.pdf)  
+[Sprint 11 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 11.pdf)  
 
 
 ###Status Documents
