@@ -22,8 +22,18 @@
         }, 
         {
             "location": "/Appendicies/", 
-            "text": "", 
+            "text": "Appendices\n\n\nFeedback Documents\n\n\nProposal Feedback\n\n\nMid Semester Review Feedback", 
             "title": "Appendicies"
+        }, 
+        {
+            "location": "/Appendicies/#appendices", 
+            "text": "", 
+            "title": "Appendices"
+        }, 
+        {
+            "location": "/Appendicies/#feedback-documents", 
+            "text": "Proposal Feedback  Mid Semester Review Feedback", 
+            "title": "Feedback Documents"
         }, 
         {
             "location": "/Communication and Colaboration/", 
@@ -62,7 +72,7 @@
         }, 
         {
             "location": "/Design and Development/", 
-            "text": "Design and Development\n\n\nOnline Repository\n\n\nLink to Repository\n\n\nLink to User Documentation\n\n\nLink to Developer Documentation\n  \n\n\nJira Project management\n\n\nJira Documentation\n  \n\n\nArchitecture Design Diagrams\n\n\nArchitecture Design\n\n\nSecurity Model Diagram\n  \n\n\nProject Poster\n\n\nPoster PDF", 
+            "text": "Design and Development\n\n\nOnline Repository\n\n\nLink to Repository\n\n\nLink to User Documentation\n\n\nLink to Developer Documentation\n  \n\n\nJira Project management\n\n\nJira Documentation\n  \n\n\nArchitecture Design Diagrams\n\n\nSecurity Model Diagram\n\n\nAuthentication and Authorization Diagram\n\n\nCMS Login Flow Diagram\n\n\nCMS Visitor Access\n\n\nVisitor Site Technical Structure\n  \n\n\nProject Poster\n\n\nPoster PDF", 
             "title": "Design and Development"
         }, 
         {
@@ -82,7 +92,7 @@
         }, 
         {
             "location": "/Design and Development/#architecture-design-diagrams", 
-            "text": "Architecture Design  Security Model Diagram", 
+            "text": "Security Model Diagram  Authentication and Authorization Diagram  CMS Login Flow Diagram  CMS Visitor Access  Visitor Site Technical Structure", 
             "title": "Architecture Design Diagrams"
         }, 
         {
@@ -92,8 +102,28 @@
         }, 
         {
             "location": "/Quality Assurance/", 
+            "text": "Quality Assurance\n\n\nRisk Management \n Quality assurance\n\n\nplease refer to the project proposal document \nHere\n  \n\n\nTeam Contract\n\n\nTeam Contract\n\n\nPython Coding Standards\n\n\nCoding Standards", 
+            "title": "Quality Assurance"
+        }, 
+        {
+            "location": "/Quality Assurance/#quality-assurance", 
             "text": "", 
             "title": "Quality Assurance"
+        }, 
+        {
+            "location": "/Quality Assurance/#risk-management-quality-assurance", 
+            "text": "please refer to the project proposal document  Here", 
+            "title": "Risk Management &amp; Quality assurance"
+        }, 
+        {
+            "location": "/Quality Assurance/#team-contract", 
+            "text": "Team Contract", 
+            "title": "Team Contract"
+        }, 
+        {
+            "location": "/Quality Assurance/#python-coding-standards", 
+            "text": "Coding Standards", 
+            "title": "Python Coding Standards"
         }, 
         {
             "location": "/planning and control/", 
