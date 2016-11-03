@@ -47,13 +47,24 @@ to occur.
 [Sprint 1 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 1.pdf)  
 [Sprint 2 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 2.pdf)  
 [Sprint 3-4 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 3_4.pdf)  
-[Sprint 5-6 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 5_6.pdf)  
+[Sprint 5-6 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 5_6.pdf)
 [Sprint 7 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 7.pdf)  
 [Sprint 8 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 8.pdf)  
 [Sprint 9 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 9.pdf)  
 [Sprint 10 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 10.pdf)  
 [Sprint 11 Sign off](Documents/Communication/Client meeting minutes PDF/Updated Sprint Sign offs/Sprint sign off 11.pdf)  
 
+####Sprints on JIRA
+[Sprint 2 - Security Concept](Documents/Project Planning and Control/JIRA Screenshots/Sprint 2.png)  
+[Sprint 3 - Python Refactor](Documents/Project Planning and Control/JIRA Screenshots/Sprint 3.png)  
+[Sprint 4 - Redo](Documents/Project Planning and Control/JIRA Screenshots/Sprint 4.png)  
+[Sprint 5 - Blogs and Roles](Documents/Project Planning and Control/JIRA Screenshots/Sprint 5.png)  
+[Sprint 6](Documents/Project Planning and Control/JIRA Screenshots/Sprint 6.png)  
+[Sprint 7 - Frontend, Documentation and Roles](Documents/Project Planning and Control/JIRA Screenshots/Sprint 7.png)  
+[Sprint 8 - UI, Documentation and Permission](Documents/Project Planning and Control/JIRA Screenshots/Sprint 8.png)  
+[Sprint 9 - Front End](Documents/Project Planning and Control/JIRA Screenshots/Sprint 9.png)  
+[Sprint 10 - Front End](Documents/Project Planning and Control/JIRA Screenshots/Sprint 10.png)  
+[Sprint 11 - Completing Front End](Documents/Project Planning and Control/JIRA Screenshots/Sprint 11.png)  
 
 ###Status Documents
 [Mid semester Status Report](Documents/Project Planning and Control/Sprint 0 Planning Documents/ProjectPlanWeek1-4.pdf)  
