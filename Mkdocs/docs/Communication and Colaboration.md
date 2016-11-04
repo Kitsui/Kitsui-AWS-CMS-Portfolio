@@ -5,7 +5,7 @@ Development of the Content Management System. These artifacts show the communica
 and collaboration with the client and team.
 
 ##Team Meeting Minutes
-[Daily Stand ups](Documents/Communication/Team meeting minutes PDF/Daily Standups.pdf)  
+[DEP Daily Stand ups](Documents/Communication/Team meeting minutes PDF/Daily Standups.pdf)  
 [Team Meeting - 7/3](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ 07_03_2016.pdf)  
 [Team Meeting - 8/3](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ 08_03_2016.pdf)  
 [Team Meeting - 15/6](Documents/Communication/Team meeting minutes PDF/Team Meeting - Minutes _ 15_06_2016.pdf)  

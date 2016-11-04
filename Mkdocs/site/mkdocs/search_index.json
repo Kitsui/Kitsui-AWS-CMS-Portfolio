@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/index.html", 
-            "text": "WELCOME TO AWS SERVERLESS CMS\n\n\nProduced by Team KITSUI\n\n\nThis portfolio was produced for the Amazon Web Services Serverless Content\nManagement System produced by Team Kitsui 2016. All documents created and\nused which brought value to the team or client through out the project will\nbe presented here. Noted that some documentation at the time was useful and\nserved its purpose, however was depricated and not maintained. The link to the\ndocumentation will be presented link bellow.  \n\n\n// Example  \n\n\n\n\nWhere as standard documentation which is maintained will be presented in this\nmanner.  \n\n\n// Example  \n\n\n\n\nHappy Marking :)", 
+            "text": "WELCOME TO AWS SERVERLESS CMS\n\n\nProduced by Team KITSUI\n\n\nThis portfolio was produced for the Amazon Web Services Serverless Content\nManagement System produced by Team Kitsui 2016. All documents created and\nused which brought value to the team or client through out the project will\nbe presented here. Noted that some documentation at the time was useful and\nserved its purpose, however was depricated and not maintained. The link to the\ndocumentation will be presented link bellow.  \n\n\nDEP Weekly Plan  \nDEP Daily Stand ups  \nDEP Project Plan Weeks 1 - 4  \n\n\n\n\nWhere as standard documentation which is maintained will be presented in this\nmanner.  \n\n\nHappy Marking :)", 
             "title": "Home"
         }, 
         {
@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/index.html#produced-by-team-kitsui", 
-            "text": "This portfolio was produced for the Amazon Web Services Serverless Content\nManagement System produced by Team Kitsui 2016. All documents created and\nused which brought value to the team or client through out the project will\nbe presented here. Noted that some documentation at the time was useful and\nserved its purpose, however was depricated and not maintained. The link to the\ndocumentation will be presented link bellow.    // Example    Where as standard documentation which is maintained will be presented in this\nmanner.    // Example", 
+            "text": "This portfolio was produced for the Amazon Web Services Serverless Content\nManagement System produced by Team Kitsui 2016. All documents created and\nused which brought value to the team or client through out the project will\nbe presented here. Noted that some documentation at the time was useful and\nserved its purpose, however was depricated and not maintained. The link to the\ndocumentation will be presented link bellow.    DEP Weekly Plan  \nDEP Daily Stand ups  \nDEP Project Plan Weeks 1 - 4    Where as standard documentation which is maintained will be presented in this\nmanner.", 
             "title": "Produced by Team KITSUI"
         }, 
         {
@@ -37,7 +37,7 @@
         }, 
         {
             "location": "/Communication and Colaboration/index.html", 
-            "text": "Communication and Collaboration\n\n\nThe following artifacts have been curated over the period the Research and\nDevelopment of the Content Management System. These artifacts show the communication\nand collaboration with the client and team.\n\n\nTeam Meeting Minutes\n\n\nDaily Stand ups\n\n\nTeam Meeting - 7/3\n\n\nTeam Meeting - 8/3\n\n\nTeam Meeting - 15/6\n\n\nTeam Meeting - 16/5\n\n\nTeam Meeting - 17/5 a\n\n\nTeam Meeting - 17/5 b\n\n\nTeam Meeting - 26/5\n\n\nTeam Meeting - 18/7\n  \n\n\nClient Meeting Minutes\n\n\nClient Meeting Sprint 0 9/3\n\n\nClient Meeting Sprint 0 14/3\n\n\nClient Meeting Sprint 0 1/4\n\n\nClient Meeting Sprint 0 2/5\n\n\nClient Meeting Sprint 1-2 Review\n\n\nClient Meeting Sprint 3 Review\n\n\nClient Meeting Sprint 4 Review\n\n\nClient Meeting Sprint 5-6 Review\n\n\nClient Meeting Sprint 7 Review\n\n\nClient Meeting Sprint 8 Review\n\n\nClient Meeting Sprint 9 Review\n\n\nClient Meeting Sprint 10 Review\n\n\nClient Meeting Sprint 11 Review\n  \n\n\nBulletproof Dev Team Slack\n\n\nSlack chat Screen shot 1\n\n\nSlack chat Screen shot 2\n\n\nSupervisor Meeting Minutes\n\n\nSupervisor Meeting 4/3\n\n\nSupervisor Meeting 10/3\n\n\nSupervisor Meeting 8/4\n\n\nSupervisor Meeting 6/5\n\n\nSupervisor Meeting 13/5\n\n\nSupervisor Meeting 20/5\n\n\nSupervisor Meeting 27/6\n\n\nSupervisor Meeting 18/7\n\n\nSupervisor Meeting 26/9\n  \n\n\nClient Email records\n\n\nEmail Records", 
+            "text": "Communication and Collaboration\n\n\nThe following artifacts have been curated over the period the Research and\nDevelopment of the Content Management System. These artifacts show the communication\nand collaboration with the client and team.\n\n\nTeam Meeting Minutes\n\n\nDEP Daily Stand ups\n\n\nTeam Meeting - 7/3\n\n\nTeam Meeting - 8/3\n\n\nTeam Meeting - 15/6\n\n\nTeam Meeting - 16/5\n\n\nTeam Meeting - 17/5 a\n\n\nTeam Meeting - 17/5 b\n\n\nTeam Meeting - 26/5\n\n\nTeam Meeting - 18/7\n  \n\n\nClient Meeting Minutes\n\n\nClient Meeting Sprint 0 9/3\n\n\nClient Meeting Sprint 0 14/3\n\n\nClient Meeting Sprint 0 1/4\n\n\nClient Meeting Sprint 0 2/5\n\n\nClient Meeting Sprint 1-2 Review\n\n\nClient Meeting Sprint 3 Review\n\n\nClient Meeting Sprint 4 Review\n\n\nClient Meeting Sprint 5-6 Review\n\n\nClient Meeting Sprint 7 Review\n\n\nClient Meeting Sprint 8 Review\n\n\nClient Meeting Sprint 9 Review\n\n\nClient Meeting Sprint 10 Review\n\n\nClient Meeting Sprint 11 Review\n  \n\n\nBulletproof Dev Team Slack\n\n\nSlack chat Screen shot 1\n\n\nSlack chat Screen shot 2\n\n\nSupervisor Meeting Minutes\n\n\nSupervisor Meeting 4/3\n\n\nSupervisor Meeting 10/3\n\n\nSupervisor Meeting 8/4\n\n\nSupervisor Meeting 6/5\n\n\nSupervisor Meeting 13/5\n\n\nSupervisor Meeting 20/5\n\n\nSupervisor Meeting 27/6\n\n\nSupervisor Meeting 18/7\n\n\nSupervisor Meeting 26/9\n  \n\n\nClient Email records\n\n\nEmail Records", 
             "title": "Communication and Colaboration"
         }, 
         {
@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/Communication and Colaboration/index.html#team-meeting-minutes", 
-            "text": "Daily Stand ups  Team Meeting - 7/3  Team Meeting - 8/3  Team Meeting - 15/6  Team Meeting - 16/5  Team Meeting - 17/5 a  Team Meeting - 17/5 b  Team Meeting - 26/5  Team Meeting - 18/7", 
+            "text": "DEP Daily Stand ups  Team Meeting - 7/3  Team Meeting - 8/3  Team Meeting - 15/6  Team Meeting - 16/5  Team Meeting - 17/5 a  Team Meeting - 17/5 b  Team Meeting - 26/5  Team Meeting - 18/7", 
             "title": "Team Meeting Minutes"
         }, 
         {
@@ -72,7 +72,7 @@
         }, 
         {
             "location": "/Design and Development/index.html", 
-            "text": "Design and Development\n\n\nOnline Repository\n\n\nLink to Repository\n\n\nLink to User Documentation\n\n\nLink to Developer Documentation\n  \n\n\nJira Project management\n\n\nJira Documentation\n  \n\n\nArchitecture Design Diagrams\n\n\nSecurity Model Diagram\n\n\nAuthentication and Authorization Diagram\n\n\nCMS Login Flow Diagram\n\n\nCMS Visitor Access\n\n\nVisitor Site Technical Structure\n  \n\n\nProject Poster\n\n\nPoster PDF", 
+            "text": "Design and Development\n\n\nOnline Repository\n\n\nLink to Repository\n\n\nLink to User Documentation\n\n\nLink to Developer Documentation\n  \n\n\nJira Project management\n\n\nJira Documentation\n  \n\n\nArchitecture Design Diagrams\n\n\nSecurity Model Diagram\n\n\nAuthentication and Authorization Diagram\n\n\nCMS Login Flow Diagram\n\n\nCMS Visitor Access\n\n\nVisitor Site Technical Structure\n\n\nCMS Architecture Data Flow Diagram\n  \n\n\nProject Poster\n\n\nPoster PDF", 
             "title": "Design and Development"
         }, 
         {
@@ -92,7 +92,7 @@
         }, 
         {
             "location": "/Design and Development/index.html#architecture-design-diagrams", 
-            "text": "Security Model Diagram  Authentication and Authorization Diagram  CMS Login Flow Diagram  CMS Visitor Access  Visitor Site Technical Structure", 
+            "text": "Security Model Diagram  Authentication and Authorization Diagram  CMS Login Flow Diagram  CMS Visitor Access  Visitor Site Technical Structure  CMS Architecture Data Flow Diagram", 
             "title": "Architecture Design Diagrams"
         }, 
         {
@@ -127,7 +127,7 @@
         }, 
         {
             "location": "/planning and control/index.html", 
-            "text": "Project Planning and Control\n\n\nThe following artifacts have been curated over the period the Research and\nDevelopment of the Content Management System. These artifacts show the Control\nmeasures taken to assess the risks and issues that have arisen and were thought\nto occur.\n\n\nProposal Document\n\n\nUp to date Proposal\n  \n\n\nProject Schedules\n\n\nOverview Project Schedule 2.0\n\n\nOverview Project Schedule 2.1\n\n\nOverview Project Schedule 2.2\n\n\nOverview Project Schedule 2.3\n\n\nOverview Project Schedule 2.4\n  \n\n\nWeekly Plan\n\n\nProject Plan Weeks 1 - 4\n  \n\n\nProject Control\n\n\nScope Change Document\n\n\nProject Decision Rationale Document\n\n\nJira Product backlog and Burndowns\n\n\nIssue Register\n  \n\n\nTeam Contract\n\n\nTeam Skill Matrix\n  \n\n\nSprint Control\n\n\nSprint 1 Report\n  \n\n\nSprint 1 Retrospective\n\n\nSprint 2 Retrospective\n\n\nSprint 3 Retrospective\n\n\nSprint 4 Retrospective\n\n\nSprint 6 Retrospective\n\n\nSprint 7 Retrospective\n\n\nSprint 8 Retrospective\n\n\nSprint 9 Retrospective\n\n\nSprint 10 Retrospective\n\n\nSprint 11 Retrospective\n  \n\n\nSprint Sign off Documents\n\n\nSprint 1 Sign off\n\n\nSprint 2 Sign off\n\n\nSprint 3-4 Sign off\n\n\nSprint 5-6 Sign off\n\n\nSprint 7 Sign off\n\n\nSprint 8 Sign off\n\n\nSprint 9 Sign off\n\n\nSprint 10 Sign off\n\n\nSprint 11 Sign off\n  \n\n\nSprints on JIRA\n\n\nSprint 2 - Security Concept\n\n\nSprint 3 - Python Refactor\n\n\nSprint 4 - Redo\n\n\nSprint 5 - Blogs and Roles\n\n\nSprint 6\n\n\nSprint 7 - Frontend, Documentation and Roles\n\n\nSprint 8 - UI, Documentation and Permission\n\n\nSprint 9 - Front End\n\n\nSprint 10 - Front End\n\n\nSprint 11 - Completing Front End\n  \n\n\nStatus Documents\n\n\nMid semester Status Report\n \n\n\nLog Books\n\n\nMiguel's Log Book\n\n\nAdam's Log Book\n\n\nChris's Log Book\n\n\nJohn's Log Book", 
+            "text": "Project Planning and Control\n\n\nThe following artifacts have been curated over the period the Research and\nDevelopment of the Content Management System. These artifacts show the Control\nmeasures taken to assess the risks and issues that have arisen and were thought\nto occur.\n\n\nProposal Document\n\n\nUp to date Proposal\n  \n\n\nProject Schedules\n\n\nOverview Project Schedule 2.0\n\n\nOverview Project Schedule 2.1\n\n\nOverview Project Schedule 2.2\n\n\nOverview Project Schedule 2.3\n\n\nOverview Project Schedule 2.4\n  \n\n\nDEP Weekly Plan\n\n\nDEP Project Plan Weeks 1 - 4\n  \n\n\nProject Control\n\n\nScope Change Document\n\n\nProject Decision Rationale Document\n\n\nJira Product backlog and Burndowns\n\n\nIssue Register\n  \n\n\nTeam Contract\n\n\nTeam Skill Matrix\n  \n\n\nSprint Control\n\n\nSprint 1 Report\n  \n\n\nSprint 1 Retrospective\n\n\nSprint 2 Retrospective\n\n\nSprint 3 Retrospective\n\n\nSprint 4 Retrospective\n\n\nSprint 6 Retrospective\n\n\nSprint 7 Retrospective\n\n\nSprint 8 Retrospective\n\n\nSprint 9 Retrospective\n\n\nSprint 10 Retrospective\n\n\nSprint 11 Retrospective\n  \n\n\nSprint Sign off Documents\n\n\nSprint 1 Sign off\n\n\nSprint 2 Sign off\n\n\nSprint 3-4 Sign off\n\n\nSprint 5-6 Sign off\n\n\nSprint 7 Sign off\n\n\nSprint 8 Sign off\n\n\nSprint 9 Sign off\n\n\nSprint 10 Sign off\n\n\nSprint 11 Sign off\n  \n\n\nSprints on JIRA\n\n\nSprint 2 - Security Concept\n\n\nSprint 3 - Python Refactor\n\n\nSprint 4 - Redo\n\n\nSprint 5 - Blogs and Roles\n\n\nSprint 6\n\n\nSprint 7 - Frontend, Documentation and Roles\n\n\nSprint 8 - UI, Documentation and Permission\n\n\nSprint 9 - Front End\n\n\nSprint 10 - Front End\n\n\nSprint 11 - Completing Front End\n  \n\n\nStatus Documents\n\n\nMid semester Status Report\n \n\n\nLog Books\n\n\nMiguel's Log Book\n\n\nAdam's Log Book\n\n\nChris's Log Book\n\n\nJohn's Log Book", 
             "title": "Planning and control"
         }, 
         {
@@ -142,7 +142,7 @@
         }, 
         {
             "location": "/planning and control/index.html#project-schedules", 
-            "text": "Overview Project Schedule 2.0  Overview Project Schedule 2.1  Overview Project Schedule 2.2  Overview Project Schedule 2.3  Overview Project Schedule 2.4     Weekly Plan  Project Plan Weeks 1 - 4", 
+            "text": "Overview Project Schedule 2.0  Overview Project Schedule 2.1  Overview Project Schedule 2.2  Overview Project Schedule 2.3  Overview Project Schedule 2.4     DEP Weekly Plan  DEP Project Plan Weeks 1 - 4", 
             "title": "Project Schedules"
         }, 
         {

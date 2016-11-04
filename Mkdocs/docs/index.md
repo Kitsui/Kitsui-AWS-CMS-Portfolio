@@ -9,14 +9,12 @@ served its purpose, however was depricated and not maintained. The link to the
 documentation will be presented link bellow.  
 
 ```
-// Example  
+DEP Weekly Plan  
+DEP Daily Stand ups  
+DEP Project Plan Weeks 1 - 4  
 ```  
 
 Where as standard documentation which is maintained will be presented in this
 manner.  
-
-```
-// Example  
-```  
 
 ####Happy Marking :)

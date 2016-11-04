@@ -17,8 +17,8 @@ to occur.
 [Overview Project Schedule 2.3](Documents/Project Planning and Control/Project Schedule/AWS gantt - ver2.3 30-5-16.pdf)  
 [Overview Project Schedule 2.4](Documents/Project Planning and Control/Project Schedule/AWS gantt - ver2.4 17-10-16.pdf)  
 
-[Weekly Plan](Documents/Project Planning and Control/Sprint 0 Planning Documents/WeeklyPlan-290216.pdf)  
-[Project Plan Weeks 1 - 4](Documents/Project Planning and Control/Sprint 0 Planning Documents/ProjectPlanWeek1-4.pdf)  
+[DEP Weekly Plan](Documents/Project Planning and Control/Sprint 0 Planning Documents/WeeklyPlan-290216.pdf)  
+[DEP Project Plan Weeks 1 - 4](Documents/Project Planning and Control/Sprint 0 Planning Documents/ProjectPlanWeek1-4.pdf)  
 
 ###Project Control
 [Scope Change Document](Documents/Project Planning and Control/ScopeChangeDocument.pdf)  

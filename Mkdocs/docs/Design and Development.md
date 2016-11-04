@@ -14,6 +14,8 @@
 [CMS Login Flow Diagram](Documents/Design and Development/CMS Login Flow.png)  
 [CMS Visitor Access](Documents/Design and Development/CMS Visitor Access.png)  
 [Visitor Site Technical Structure](Documents/Design and Development/Visitor-dynamic-model.jpg)  
+[CMS Architecture Data Flow Diagram](Documents/Design and Development/CMS Project Architecture.pdf)  
 
 ##Project Poster
-[Poster PDF](Documents/Design and Development/Poster.pdf)  
+[Poster PDF](Documents/Design and Development/Poster.pdf)
+
