@@ -67,4 +67,11 @@ to occur.
 [Sprint 11 - Completing Front End](Documents/Project Planning and Control/JIRA Screenshots/Sprint 11.png)  
 
 ###Status Documents
-[Mid semester Status Report](Documents/Project Planning and Control/Sprint 0 Planning Documents/ProjectPlanWeek1-4.pdf)  
+[Mid semester Status Report](Documents/Project Planning and Control/Sprint 0 Planning Documents/ProjectPlanWeek1-4.pdf) 
+
+###Log Books
+[Miguel's Log Book](Documents/Logbook - Miguel Saavedra 13826904.pdf)  
+[Adam's Log Book](#)  
+[Chris's Log Book](#)  
+[John's Log Book](#)
+
