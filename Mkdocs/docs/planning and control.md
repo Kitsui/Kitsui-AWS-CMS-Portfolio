@@ -70,8 +70,9 @@ to occur.
 [Mid semester Status Report](Documents/Project Planning and Control/Sprint 0 Planning Documents/ProjectPlanWeek1-4.pdf) 
 
 ###Log Books
-[Miguel's Log Book](Documents/Logbook - Miguel Saavedra 13826904.pdf)  
-[Adam's Log Book](#)  
+[Miguel's Log Book](Documents/Project Planning and Control/Log Books/Logbook - Miguel Saavedra 13826904.pdf)  
+[Adam's Weekly Journal](Documents/Project Planning and Control/Log Books/Weekly-Journal-Adam.pdf)  
+[Adam's Hours Log](Documents/Project Planning and Control/Log Books/Hours-Log-Adam.pdf)  
 [Chris's Log Book](#)  
 [John's Log Book](#)
 
